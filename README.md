@@ -1,5 +1,4 @@
-#Lottery Contract
-
+# Lottery Contract
 React, Solidity, Web3
 
 `npm start`
