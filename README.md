@@ -1,6 +1,7 @@
 #Lottery Contract
 
-React, Infura, Solidity, Web3, Semantic
+React, Solidity, Web3
 
-### `npm start`
+`npm start`
 
+A lottery game using contracts on the Ethereum network
